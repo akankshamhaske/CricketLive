@@ -1,0 +1,17 @@
+{
+    "name": "My Chrome Extension",
+    "version":"1.0.0",
+    "description": "IPL Chrome Extension",
+    "manifest_version":3,
+    "author": "Akanksha Mhaske",
+    "action":
+    {
+        "default_popup": "index.html",
+        "default_title": "My first Chrome Extension",
+        "default_icon": "logo.png"
+    },
+    "icons":{
+        "128":"logo.png"
+    }
+
+}
